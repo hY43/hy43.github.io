@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Dev Note
-subtitle: ""
+subtitle: "Recording Dev"
 email: hyde0401@gmail.com
 name: sangwon Cho
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  This blog is for recording about dev.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -92,8 +92,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: hY43
+    url: https://github.com/hy43
     desc: Fork me on GitHub
     share: false
 
